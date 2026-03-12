@@ -67,7 +67,7 @@ To move from tracking revenue to tracking true business health, the following da
 1.	Ingredient Cost & Profitability: Adding the Cost Price for each pizza type is vital. This enables the calculation of net gains and identifies which menu items are truly driving the business forward. High sales do not always equal high profit.
   
 2.	Staffing & Labor Optimization: Integrating Staff IDs, names, shift hours, and wages is necessary to optimize labor costs. This data will reveal if the restaurant is over-spending on wages during "Slow Leak" hours and which team members are most efficient during high-traffic peaks
-3.	._____________________________________
+_____________________________________
 
 📈 Forecast: The "Cost of Doing Nothing"
 
