@@ -36,6 +36,7 @@ ________________________________________
 1.  High Traffic & "Slow Leak" Hours
    
 •	Peak Dining (12:00 PM & 6:00 PM): These are the "Profit Windows." Maximum staffing and oven capacity are required during these surges.
+
 •	The "Slow Leak" (2:00 PM - 4:00 PM): This represents a revenue vacuum.
 
 Significance: Labor costs remain active during these surges. The "Slow Leak" (2:00 PM - 4:00 PM) represents a revenue vacuum. Order volume drops significantly. This is the ideal window for "Happy Hour" or "Mid-Day Slice" promotions to convert idle time into cash flow.
