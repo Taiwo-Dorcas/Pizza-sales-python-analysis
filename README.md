@@ -61,30 +61,6 @@ Significance: There is an $8,000 monthly gap between the summer peak and the aut
 Significance: To optimize cash flow, the restaurant should use "Low-Stock" management for XL/XXL ingredients. This reduces waste and keeps capital liquid.
 ________________________________________
 
-⚠️ Critical Strategic Gaps (Missing Data)
-
-To move from tracking revenue to tracking true business health, the following data points are essential:
-
-1.	Ingredient Cost & Profitability: Adding the Cost Price for each pizza type is vital. This enables the calculation of net gains and identifies which menu items are truly driving the business forward. High sales do not always equal high profit.
-  
-2.	Staffing & Labor Optimization: Integrating Staff IDs, names, shift hours, and wages is necessary to optimize labor costs. This data will reveal if the restaurant is over-spending on wages during "Slow Leak" hours and which team members are most efficient during high-traffic peaks
-_____________________________________
-
-📈 Forecast: The "Cost of Doing Nothing"
-
-If the -0.50% sales decline is not corrected:
-
-Risk Factor	Projected Impact
-
-Short-term Revenue Loss	Monthly revenue is projected to erode by $3,500 - $4,500 over the next quarter.
-
-Volume Risk	Total monthly customer orders are expected to drop below the 4,000.
-
-Ingredient Cost & Profitability: Adding the Cost Price for each pizza type is vital. This enables the calculation of net gains and identifies which menu items are truly driving the business forward. High sales do not always equal high profit.
-
-Staffing & Labor Optimization: Integrating Staff IDs, names, shift hours, and wages is necessary to optimize labor costs. This data will reveal if the restaurant is over-spending on wages during "Slow Leak" hours and which team members are most efficient during high-traffic peaks.
-_______________________________________
-
 🚀 Recovery & Growth Strategy
 
 Objective: Reverse the -0.63% Order Decline
@@ -104,6 +80,6 @@ ________________________________________
 
 •	Visualization: Matplotlib & Seaborn (Exported at 300 DPI for clarity).
 
-•	Process: Cleaned raw transaction data, identified growth rates via linear regression, and translated technical trends into business solutions.
+•	Process: Cleaned raw transaction data, identified growth rates and translated technical trends into business solutions.
 ________________________________________
 
