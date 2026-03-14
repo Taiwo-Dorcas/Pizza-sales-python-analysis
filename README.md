@@ -4,7 +4,7 @@
 
 The Bottom Line: For the 2015 fiscal year, the restaurant achieved a Total Sales revenue of $817,860.05. While the Average Order Value of $38.30 remains strong, the data reveals a critical "Volume Leak."
 
-The Risk: Customer foot traffic (Orders) is declining at a steady rate of -0.63% monthly. If this trend continues, the restaurant is projected to face a Monthly Revenue Gap of $3,500 - $4,500 by the end of next quarter. This report identifies exactly where the revenue is being lost and provides a roadmap to stabilize growth by targeting underutilized hours and seasonal dips.
+The Risk: Customer foot traffic (Orders) is declining at a steady rate of -0.63% monthly This report identifies exactly where the revenue is being lost and provides a roadmap to stabilize growth by targeting underutilized hours and seasonal dips.
 ________________________________________
 
 💰 Annual Financial Totals
