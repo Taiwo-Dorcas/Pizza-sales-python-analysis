@@ -1,4 +1,4 @@
-# 🍕Pizza-sales-python-analysis: : 2015 Sales & Operations Performance Report
+# 🍕Pizza-sales-python-analysis: : Sales & Operations Performance Report
 
 📝 Executive Summary
 
